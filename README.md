@@ -1,6 +1,4 @@
-# Music vs Academics Data Analysis
-
- ## Musical Enrollment and Its Influence on Student Academic Performance
+# Musical Enrollment and Its Influence on Student Academic Performance
 
  ### Abstract
  
